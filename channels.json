@@ -1,0 +1,49 @@
+{
+    "errcode": 0,
+    "errmsg": "success",
+    "result": [{
+       "categoryId": "1",
+       "categoryName": "微信公众号",
+       "channels":[{
+		"channelId": "4",
+		"channelName": "安利云购",
+		"enabled": true
+	   },{
+		"channelId": "5",
+		"channelName": "紐崔萊",
+		"enabled": true		
+	   },
+	   {
+		"channelId": "6",
+		"channelName": "雅姿",
+		"enabled": true		
+	   },
+	   {
+		"channelId": "7",
+		"channelName": "XSNation",
+		"enabled": true		
+	   }]
+    },{
+       "categoryId": "2",
+       "categoryName": "APP",
+       "channels":[{
+		"channelId": "8",
+		"channelName": "Content APP",
+		"enabled": true
+	   },{
+		"channelId": "9",
+		"channelName": "安麗數碼港",
+		"enabled": true		
+	   },
+	   {
+		"channelId": "10",
+		"channelName": "安麗播庫",
+		"enabled": true		
+	   },
+	   {
+		"channelId": "11",
+		"channelName": "安麗雲學堂",
+		"enabled": true		
+	   }]	
+	}]
+}
