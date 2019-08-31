@@ -1,6 +1,4 @@
 {
-    "errcode": 0,
-    "errmsg": "success",
     "result": [{
        "categoryId": "1",
        "categoryName": "微信公众号",
